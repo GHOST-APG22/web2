@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1200ox;
+    margin: 0 auto ;
+}
+
+
+ul li a {
+    /* Toshkent */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 23px;
+}
+
+.headerparrent {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    align-items: center;
+}
+
+/* section1 */
+
+.bir-right {
+    width: 520px;
+}
+
+
+.bir-right h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    color: #F32121;
+}
+
+
+.bir-right p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.bir-link a {
+    text-decoration: none;
+    /* Batafsil ma’lumot */
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4b84db;
+}
+
+.bir-ota {
+    display: flex;
+    justify-content: space-around;
+}
+
+h2 {
+    margin: bottom 30px; 
+    margin-top: 30px;
+}
